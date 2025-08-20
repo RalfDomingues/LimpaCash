@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>README - Script de Limpeza de Arquivos Temporários</title>
 </head>
 <body>
 
